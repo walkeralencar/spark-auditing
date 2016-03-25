@@ -1,5 +1,5 @@
 {
-    "name": "owen-it/spark-auditing",
+    "name": "walkeralencar/spark-auditing",
     "description": "App demo to package laravel-auditing.",
     "keywords": ["framework", "laravel", "auditing", "audit", "log"],
     "license": "MIT",
@@ -7,7 +7,7 @@
     "require": {
         "php": ">=5.5.9",
         "laravel/framework": "5.1.*",
-        "laravel/spark": "^0.1.1",
+        "walkeralencar/spark": "^0.1.1",
         "owen-it/laravel-auditing": "2.1.*"
     },
     "require-dev": {
