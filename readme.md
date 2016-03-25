@@ -8,7 +8,7 @@ The application has designed to demonstrate the use of [laravel-auditing](https:
 
 ## Quick Installation
 
-    composer create-project owen-it/spark-auditing your-project-name --prefer-dist
+    composer create-project walkeralencar/spark-auditing your-project-name --prefer-dist
 
 ### License
 
