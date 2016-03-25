@@ -7,7 +7,7 @@
     "require": {
         "php": ">=5.5.9",
         "laravel/framework": "5.1.*",
-        "walkeralencar/sparks": "^0.1.1",
+        "walkeralencar/sparks": "^0.1.2",
         "owen-it/laravel-auditing": "2.1.*"
     },
     "require-dev": {
